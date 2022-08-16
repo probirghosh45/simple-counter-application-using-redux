@@ -1,6 +1,6 @@
 //select dom element
 const counterEl = document.getElementById("counter-element");
-const incrementEl = document.getElementById("increment-element");
+const incrementEl = document.getElementById("increment-element"); 
 const decrementEl = document.getElementById("decrement-element");
 
 //initial state
