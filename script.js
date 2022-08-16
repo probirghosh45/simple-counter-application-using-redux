@@ -11,7 +11,7 @@ incrementEl.addEventListener("click", () => {
   // console.log("clicked");
   count++;
   // console.log(count)
-  counterEl.innerText = count;
+  counterEl.innerText = count; 
 });
 
 decrementEl.addEventListener("click", () => {
